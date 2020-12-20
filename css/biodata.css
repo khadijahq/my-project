@@ -1,0 +1,53 @@
+body
+{
+background-color:white ;
+}
+
+img 
+{
+border-color:purple;
+display: block; 
+margin-left:auto;
+margin-right: auto;
+}
+
+
+a:link, a:visited 
+{
+  background-color: transparent;
+  color: lightblue;
+  border: 1px solid brown;
+  padding: 10px 20px;
+  text-align: center;
+ 
+}
+
+a:hover, a:active {
+  background-color:lightyellow;
+  color: pink;
+}
+
+h2
+{
+text-align: center;
+color: violet;
+font-family: Brush Script MT;
+font-size: 32;
+}
+
+p
+{
+text-align: center;
+color: white;
+}
+
+div {
+  width: 1200px; 
+  border: solid white;
+display: block; 
+margin-left:auto;
+margin-right: auto;
+
+div.b {
+  word-wrap: break-word;
+}

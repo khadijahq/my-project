@@ -1,0 +1,32 @@
+body
+{
+  background-color: white;
+
+}
+
+h5
+{ 
+  text-align: center;
+  color: lightpink;
+font-size: 32;
+font-family: Brush Script MT;
+}
+
+p
+{
+  text-align: center;
+  color: grey;
+}
+
+a:link, a:visited 
+{
+  background-color: transparent;
+  color: lightblue;
+  border: 1px solid brown;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+a:hover, a:active {
+  background-color:lightyellow;
+  color: pink;

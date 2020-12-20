@@ -1,0 +1,26 @@
+body 
+{
+  background-color: white ;
+  text-align: center;
+  color: black;
+}
+
+h2
+{
+font-family:Brush Script MT;
+font-size: 32;
+color: yellow;
+}
+
+a:link, a:visited 
+{
+  background-color: transparent;
+  color: lightblue;
+  border: 1px solid brown;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+a:hover, a:active {
+  background-color:lightyellow;
+  color: pink;

@@ -1,0 +1,33 @@
+body 
+{
+background-color: white;
+}
+
+a:link, a:visited 
+{
+  background-color: transparent;
+  color: lightblue;
+  border:1px solid brown;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+a:hover, a:active {
+  background-color:lightyellow;
+  color: pink;
+}
+
+h1
+{
+text-align: center;
+color: brown;
+font-family: Brush Script MT;
+font-size: 32;
+}
+
+audio 
+{ 
+    display:none;
+}
+
+

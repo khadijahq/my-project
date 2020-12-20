@@ -1,0 +1,39 @@
+body 
+{
+  background-color: white;
+}
+
+h2
+{
+font-family: Brush Script MT;
+text-align: center;
+color: red;
+font-size: 36;
+}
+
+a:link, a:visited 
+{
+  background-color: transparent;
+  color: lightblue;
+  border: 1px solid brown;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+a:hover, a:active {
+  background-color:lightyellow;
+  color: pink;
+}
+
+li
+{
+color: blue;
+font-size: 24;
+}
+
+
+div.b {
+   -webkit-text-decoration-line: underline; /* Safari */
+   text-decoration-line: underline; 
+text-decoration-color: red; 
+}
